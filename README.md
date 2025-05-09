@@ -15,8 +15,8 @@ A simple, elegant search engine interface that redirects user queries to [DuckDu
 ## 📁 File Structure
 
 ```bash
-📦 your-project/
-│
+📦 My-project/
+|
 ├── index.html       # Main HTML file
 ├── style.css        # External CSS for styling
 ├── script.js        # JavaScript to handle search
